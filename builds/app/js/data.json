@@ -1,0 +1,22 @@
+[
+  {
+    "activityName": "Practice piano",
+    "activityDate": "2020-10-8 08:30",
+    "activityDetails": "Two hand major and minor scales,major/minor/dim/aug multi-octave arpeggios (120 bpm, sixteenth notes)"
+  },
+  {
+    "activityName": "Piano lessons",
+    "activityDate": "2020-10-8 10:30",
+    "activityDetails": "Give piano lessons to Annabelle, Mathias, John, Eckart, Maria, Alex. (Zoe has the flu this week)"
+  },
+  {
+    "activityName": "Walk the dog",
+    "activityDate": "2020-10-8 17:30",
+    "activityDetails": "Walk Bear around the block, make it quick, if I meet Frank he's never going to shut up"
+  },
+  {
+    "activityName": "Go to the gym",
+    "activityDate": "2020-10-8 18:00",
+    "activityDetails": "Start working on the B regimen today, ask for help with the bench press"
+  }
+]
