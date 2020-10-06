@@ -1,7 +1,5 @@
 # React.js Daily Planner
-This is the repository for my portfolio project in React.js. It's a single-page application for a Daily Planner.
-
-The application is comprised of the usual features like for instance a date sorting mechanism, a search function and a function to allow the user to add a new daily activity:
+This is the repository for my portfolio project in React.js. It's a single-page application of a Daily Planner:
 
 ![animation-1](/md/animated-1.gif) 
 ![animation-1](/md/animated-2.gif) 
@@ -11,9 +9,9 @@ The application is comprised of the usual features like for instance a date sort
 ## Installation Instructions
 To install the project on your local Linux machine:
   * Have **node.js**, **git** and **gulp** installed on your machine
-  * Clone this repo using the terminal `git clone --depth <repo-url>`
+  * Clone this repo using the terminal `git clone <repo-url>`
   * Change directory `cd <folder>`
-  * Run `sudo npm install` install the dependencies
-  * Run `sudo gulp` to run server locally
+  * Run `sudo npm install` to install the dependencies
+  * Run `sudo gulp` to run the server locally
 
 
