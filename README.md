@@ -1,5 +1,5 @@
 # React.js Daily Planner
-This is the repository for my portfolio project in React.js. It's a single-page application of a Daily Planner:
+This is the repository for my portfolio project in React.js. It's a single-page application of a daily planner:
 
 ![animation-1](/md/animated-1.gif) 
 ![animation-1](/md/animated-2.gif) 
